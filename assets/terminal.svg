@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="275" viewBox="0 0 1100 275" role="img" aria-label="LZMZ terminal: whoami, stack, and developer focus">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c121b"/><stop offset="1" stop-color="#121d29"/></linearGradient><clipPath id="clip"><rect x="18" y="18" width="1064" height="239" rx="13"/></clipPath></defs>
+<rect x="1" y="1" width="1098" height="273" rx="16" fill="url(#bg)" stroke="#2c3d4b" stroke-width="2"/>
+<path d="M1 55H1099" stroke="#2c3d4b"/><circle cx="32" cy="28" r="5" fill="#50606c"/><circle cx="51" cy="28" r="5" fill="#50606c"/><circle cx="70" cy="28" r="5" fill="#50606c"/>
+<text x="550" y="34" text-anchor="middle" font-family="monospace" font-size="16" fill="#8298a9">lzmz@workspace: ~</text>
+<g clip-path="url(#clip)" font-family="monospace" font-size="22">
+<g fill="#7ce2c9"><text x="40" y="98">❯</text><text x="40" y="155">❯</text><text x="40" y="212">❯</text></g>
+<g fill="#e7eff5"><text x="72" y="98">whoami</text><text x="72" y="155">cat focus.txt</text><text x="72" y="212">echo $STATUS</text></g>
+<g fill="#9fb6c6" font-size="18"><text x="360" y="98">LZMZ · independent developer</text><text x="360" y="155">software / systems / design</text><text x="360" y="212">BUILDING</text></g>
+<rect x="466" y="193" width="11" height="23" rx="1" fill="#7ce2c9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g></svg>
