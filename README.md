@@ -1,54 +1,42 @@
-<!-- LZMZ / GitHub profile -->
+<!-- LZMZ · minimal animated GitHub profile -->
 <p align="center">
-  <img src="assets/banner.svg" alt="LZMZ — Software & Systems" width="100%" />
-</p><p align="center">
-  <b>I build software for the space between code, systems and real life.</b>
-  <br />
-  <sub>Developer · systems enthusiast · creative technologist</sub>
-</p><p align="center">
-  <a href="https://github.com/LZMZ-std?tab=repositories">Explore my work</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/LZMZ-std/PDFBread">PDFBread</a></p>
-01 / About
-I'm LZMZ. I design and develop practical software, from desktop applications and workflow automation to custom game systems and native integrations.
-
-I care about performance, purposeful interfaces and the details that make tools feel right. My background in live production also shapes how I approach software: it needs to be dependable when it matters.
-
-02 / Selected projects
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/LZMZ-std/PDFBread"><img src="assets/pdfbread.svg" alt="PDFBread" width="100%" /></a>
-</td>
-<td width="50%" valign="top">
-  <img src="assets/zpg.svg" alt="ZPG — private development" width="100%" />
-</td>
-</tr>
-<tr>
-<td valign="top">
-  <b><a href="https://github.com/LZMZ-std/PDFBread">View PDFBread →</a></b><br />
-  <sub>Presentation and live-production utilities.</sub>
-</td>
-<td valign="top">
-  <b>ZPG · Private project</b><br />
-  <sub>Game systems and developer tooling. Source code is not public.</sub>
-</td>
-</tr>
-</table>
-03 / Toolkit
-Area	Technologies
-Development	C++ · Python · JavaScript · SQF · Verilog
-Desktop & systems	Qt · Linux · Docker · Git
-Creative technology	NDI · live video · audio systems
-Focus	Performance · automation · game tooling · UI engineering
-
-
-
-04 / Current direction
-> building reliable desktop tools
-> experimenting with native game extensions
-> improving interfaces, workflows and performance
-
-<p align="center">
-  <sub>LESS NOISE. BETTER SYSTEMS.</sub>
+  <img src="assets/banner.svg" width="100%" alt="LZMZ — Software and Systems" />
 </p>
+
+<p align="center">
+  <strong>Design with intention. Build with precision.</strong><br>
+  <sub>Software development · Systems thinking · Creative technology</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LZMZ-std?tab=overview">Overview</a> &nbsp;·&nbsp;
+  <a href="https://github.com/LZMZ-std?tab=repositories">Repositories</a> &nbsp;·&nbsp;
+  <a href="https://github.com/LZMZ-std?tab=stars">Stars</a>
+</p>
+
+<br>
+
+<img src="assets/terminal.svg" width="100%" alt="Animated terminal introduction" />
+
+### About
+
+I'm **LZMZ** — interested in the space where code, engineering and design meet. I value clean interfaces, thoughtful architecture and tools that work reliably outside a demo.
+
+### Technologies
+
+| Languages | Tools & platforms | Areas of interest |
+| :-- | :-- | :-- |
+| C++ · Python · JavaScript | Git · Linux · Docker | Software engineering |
+| SQF · Verilog | Qt · Native tooling | Automation · Creative technology |
+
+### GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LZMZ-std&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d141d&amp;title_color=7ce2c9&amp;text_color=c9d8e2&amp;icon_color=7ce2c9" alt="GitHub public activity statistics" height="170" />
+</p>
+
+<sub>Statistics reflect public activity and are provided by a third-party service; they may occasionally fail to load.</sub>
+
+---
+
+<p align="center"><sub>LESS NOISE. MORE SIGNAL.</sub></p>
